@@ -1,0 +1,89 @@
+ls - List directory contents
+cd - Change directory
+pwd - Print working directory
+mkdir - Make directory
+rm - Remove files or directories
+cp - Copy files and directories
+mv - Move or rename files and directories
+cat - Concatenate and display file contents
+grep - Search for patterns in files
+chmod - Change file permissions
+chown - Change file ownership
+ps - Display running processes
+kill - Terminate processes
+top - Display and manage system processes
+man - Display manual pages for commands
+sudo - Execute commands with superuser privileges
+apt-get/yum - Package management
+tar - Archive files
+find - Search for files and directories
+echo - Print text to terminal
+touch - Create empty files or update timestamps
+less - View file contents page by page
+head/tail - Display beginning/end of files
+df - Display disk space usage
+du - Estimate file space usage
+wget - Download files from the internet
+ssh - Secure shell remote login
+scp - Securely copy files between hosts
+ping - Test network connectivity
+history - View command historyalias - Create custom shortcuts for commands
+basename - Strip directory and suffix from filenames
+bc - Arbitrary precision calculator language
+bg - Send processes to the background
+break - Exit from a loop
+builtin - Run a shell builtin
+bzip2 - Compress or decompress files using the Burrows-Wheeler algorithm
+cal - Display a calendar
+chgrp - Change group ownership of files
+clear - Clear the terminal screen
+command - Run a command without shell expansion
+compress - Compress files
+continue - Resume the next iteration of a loop
+cpio - Copy files to and from archives
+curl - Transfer data from or to a server
+date - Display or set the system date and time
+dc - Desk calculator
+diff - Compare files line by line
+dig - DNS lookup utility
+env - Set environment and execute command
+expand - Convert tabs to spaces
+expr - Evaluate expressions
+false - Do nothing, unsuccessfully
+fg - Bring processes to the foreground
+file - Determine file type
+fmt - Simple text formatter
+fold - Wrap each input line to fit specified width
+htop - Interactive process viewer
+id - Print user and group information
+jobs - List active jobs
+less - View file contents with backward movement
+ln - Create links between files
+locate - Find files by name
+logout - Exit a login shell
+mknod - Make block or character special files
+more - View file contents one screen at a time
+mount - Mount a filesystem
+nano - Simple text editor
+nc - Netcat, read/write data across networks
+netstat - Network statistics
+read - Read a line from standard input
+rmdir - Remove empty directories
+sed - Stream editor for filtering and transforming text
+shutdown - Bring the system down
+sleep - Delay for a specified amount of time
+sort - Sort lines of text files
+ssh - OpenSSH remote login client
+tar - Tape archiver
+top - Display Linux processes
+tr - Translate or delete characters
+uname - Print system information
+unzip - List, test and extract compressed files in a ZIP archive
+uptime - Show how long system has been running
+useradd - Create a new user or update default new user information
+userdel - Delete a user account and related files
+usermod - Modify a user account
+vi - Text editor
+vim - Vi improved, a programmer's text editor
+wc - Print newline, word, and byte counts for each file
+zip - Package and compress files

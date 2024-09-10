@@ -1,0 +1,50 @@
+zmodload - Load Zsh modules
+zcompile - Compile Zsh scripts for faster loading
+zstyle - Define styles for Zsh's completion system
+zformat - Format strings with Zsh's powerful formatting system
+zcalc - Interactive calculator
+zmv - Mass rename files using patterns
+zargs - Execute commands on multiple files
+zparseopts - Parse command-line options
+zregexparse - Parse text using regular expressions
+zselect - Select from a list of choices
+zpty - Create and manage pseudo terminals
+zsocket - Create and manage network sockets
+zstat - Display file status information
+ztie - Tie shell variables to external data sources
+zuntie - Untie shell variables from external data sources
+zcompset - Set options for Zsh's completion system
+zle - Zsh Line Editor commands
+bindkey - Bind keys to Zsh functions or widgets
+vared - Edit shell variables interactively
+autoload - Autoload functions from files
+compdef - Define new completion functions
+compinit - Initialize Zsh's completion system
+compadd - Add matches to the completion list
+compset - Set completion context
+zftp - Built-in FTP client
+zed - Built-in text editor
+zsh-mime-setup - Set up MIME associations
+zsh-newuser-install - Initial setup for new Zsh users
+zrecompile - Recompile Zsh function files
+zprof - Profile Zsh startup time
+zmodload - Load Zsh modules dynamically
+zlog - Log messages to a file
+ztcp - TCP socket operations
+zsystem - System-related operations
+zgetattr - Get file attributes
+zsetattr - Set file attributes
+zlistattr - List file attributes
+zdelattr - Delete file attributes
+zf_chgrp - Change group ownership of files
+zf_chmod - Change file permissions
+zf_chown - Change file ownership
+zf_ln - Create links between files
+zf_mkdir - Create directories
+zf_mv - Move or rename files
+zf_rm - Remove files or directories
+zf_rmdir - Remove empty directories
+zf_sync - Synchronize cached writes to storage
+zf_touch - Change file timestamps
+zsh-highlight-pattern - Highlight patterns in the command line
+zsh-newuser-install - Run the new user setup wizard
